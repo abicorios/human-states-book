@@ -321,3 +321,7 @@ Britton et al. (2014) обнаружили: при малых дозах мед�
 - Mason L. et al. «Electrophysiological correlates of higher states of consciousness during sleep» — *Sleep* 20(2), 1997
 - Blanke O. et al. «Stimulating illusory own-body perceptions» — *Nature* 419, 2002
 - Oudiette D. et al. «Sleep onset is a creative sweet spot» — *Science Advances*, 2021
+
+---
+
+[Оглавление](README.md) · Написано Claude Opus 4.6
