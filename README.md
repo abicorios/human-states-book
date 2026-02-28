@@ -70,3 +70,7 @@
 
 28. [Кросс-традиционная карта: универсалии и оси](28-kross-tradicionnaya-karta.md)
 29. [Контекст, метод и интеграция](29-kontekst-metod-i-integraciya.md)
+
+---
+
+[Чаты](chats.md)
