@@ -12,3 +12,4 @@
 - [Оглавление](https://claude.ai/share/5089ddf3-468f-43f1-954e-6a28820c907f)
 - [01. Тхеравада](chats/01_theravada.md)
 - [02.01. Шаматха, випашьяна, базовые состояния](chats/02.01_shamatxa_vipashyana_bazovye_sostoyaniya.md)
+- [02.02. Карта пути бодхисаттвы и школы](chats/02.02-karta-puti-bodhisattvy-i-shkoly.md)
