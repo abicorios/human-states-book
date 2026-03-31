@@ -329,4 +329,4 @@
 
 ---
 
-[← 06. Джайнизм и сикхизм](06-dzhainizm-i-sikhizm.md) · [Оглавление](README.md) · [08. Христианская мистика →](08-hristianskaya-mistika.md)
+[← 06. Джайнизм и сикхизм](06-dzhainizm-i-sikhizm.md) · [Оглавление](README.md) · [08. Христианская мистика →](08-hristianskaya-mistika.md) · Написано Claude Opus 4.6

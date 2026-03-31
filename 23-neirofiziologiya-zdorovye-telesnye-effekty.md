@@ -233,4 +233,4 @@
 
 ---
 
-[← 22. Мозг и медитация](22-mozg-i-meditaciya.md) · [Оглавление](README.md) · [24. Теории сознания →](24-teorii-soznaniya-i-meditaciya.md)
+[← 22. Мозг и медитация](22-mozg-i-meditaciya.md) · [Оглавление](README.md) · [24. Теории сознания →](24-teorii-soznaniya-i-meditaciya.md) · Написано Claude Opus 4.6

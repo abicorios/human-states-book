@@ -236,4 +236,4 @@
 
 ---
 
-[← 24. Теории сознания](24-teorii-soznaniya-i-meditaciya.md) · [Оглавление](README.md) · [26. Психологические модели →](26-psikhologicheskie-modeli-i-razlichiya.md)
+[← 24. Теории сознания](24-teorii-soznaniya-i-meditaciya.md) · [Оглавление](README.md) · [26. Психологические модели →](26-psikhologicheskie-modeli-i-razlichiya.md) · Написано Claude Opus 4.6

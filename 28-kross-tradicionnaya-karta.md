@@ -346,4 +346,4 @@ PCE — «переживание бодрствования при полном 
 
 ---
 
-[← 27. Трудные состояния и этика](27-trudnye-sostoyaniya-riski-etika.md) · [Оглавление](README.md) · [29. Контекст, метод и интеграция →](29-kontekst-metod-i-integraciya.md)
+[← 27. Трудные состояния и этика](27-trudnye-sostoyaniya-riski-etika.md) · [Оглавление](README.md) · [29. Контекст, метод и интеграция →](29-kontekst-metod-i-integraciya.md) · Написано Claude Opus 4.6

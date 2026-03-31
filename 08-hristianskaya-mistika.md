@@ -370,4 +370,4 @@
 
 ---
 
-[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md)
+[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · Написано Claude Opus 4.6

@@ -164,4 +164,4 @@
 
 ---
 
-[← 21. Околосмертный опыт](21-okolosmertnyy-opyt-i-smert.md) · [Оглавление](README.md) · [23. Нейрофизиология →](23-neirofiziologiya-zdorovye-telesnye-effekty.md)
+[← 21. Околосмертный опыт](21-okolosmertnyy-opyt-i-smert.md) · [Оглавление](README.md) · [23. Нейрофизиология →](23-neirofiziologiya-zdorovye-telesnye-effekty.md) · Написано Claude Opus 4.6

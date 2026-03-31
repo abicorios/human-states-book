@@ -677,4 +677,4 @@
 
 ---
 
-[← 03. Дзен/Чань](03-dzen-chan-vostochnoaziatskiy-buddizm.md) · [Оглавление](README.md) · [05. Индуистская философия →](05-induistskaya-filosofiya-i-devocionalnie-praktiki.md)
+[← 03. Дзен/Чань](03-dzen-chan-vostochnoaziatskiy-buddizm.md) · [Оглавление](README.md) · [05. Индуистская философия →](05-induistskaya-filosofiya-i-devocionalnie-praktiki.md) · Написано Claude Opus 4.6

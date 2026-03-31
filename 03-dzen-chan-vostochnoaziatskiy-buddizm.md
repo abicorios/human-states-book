@@ -303,4 +303,4 @@
 
 ---
 
-[← 02.10. Терма, дагнанг и Бон](02.10-terma-dagnang-bon.md) · [Оглавление](README.md) · [04. Йога →](04-yoga-sistemy-i-praktiki.md)
+[← 02.10. Терма, дагнанг и Бон](02.10-terma-dagnang-bon.md) · [Оглавление](README.md) · [04. Йога →](04-yoga-sistemy-i-praktiki.md) · Написано Claude Opus 4.6

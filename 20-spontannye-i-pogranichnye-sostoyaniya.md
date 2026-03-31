@@ -285,4 +285,4 @@
 
 ---
 
-[← 19. Гипноз](19-gipnoz-i-suggestivnye-praktiki.md) · [Оглавление](README.md) · [21. Околосмертный опыт →](21-okolosmertnyy-opyt-i-smert.md)
+[← 19. Гипноз](19-gipnoz-i-suggestivnye-praktiki.md) · [Оглавление](README.md) · [21. Околосмертный опыт →](21-okolosmertnyy-opyt-i-smert.md) · Написано Claude Opus 4.6

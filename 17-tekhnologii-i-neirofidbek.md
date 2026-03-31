@@ -248,4 +248,4 @@ VR-среда, где 4–5 участников сосуществуют как
 
 ---
 
-[← 16. Психоделики и фармакология](16-psikhedeliki-i-farmakologiya.md) · [Оглавление](README.md) · [18. Сон и сновидения →](18-son-i-snovideniya.md)
+[← 16. Психоделики и фармакология](16-psikhedeliki-i-farmakologiya.md) · [Оглавление](README.md) · [18. Сон и сновидения →](18-son-i-snovideniya.md) · Написано Claude Opus 4.6

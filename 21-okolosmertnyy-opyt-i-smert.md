@@ -281,4 +281,4 @@
 
 ---
 
-[← 20. Спонтанные состояния](20-spontannye-i-pogranichnye-sostoyaniya.md) · [Оглавление](README.md) · [22. Мозг и медитация →](22-mozg-i-meditaciya.md)
+[← 20. Спонтанные состояния](20-spontannye-i-pogranichnye-sostoyaniya.md) · [Оглавление](README.md) · [22. Мозг и медитация →](22-mozg-i-meditaciya.md) · Написано Claude Opus 4.6

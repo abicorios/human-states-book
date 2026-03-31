@@ -209,4 +209,4 @@
 
 ---
 
-[← 08. Христианская мистика](08-hristianskaya-mistika.md) · [Оглавление](README.md) · [10. Исламская традиция →](10-islamskaya-sozercatelnaya-tradiciya.md)
+[← 08. Христианская мистика](08-hristianskaya-mistika.md) · [Оглавление](README.md) · [10. Исламская традиция →](10-islamskaya-sozercatelnaya-tradiciya.md) · Написано Claude Opus 4.6

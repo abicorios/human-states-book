@@ -147,4 +147,4 @@ Lutz, Mattout и Pagnoni (2019, *Current Opinion in Psychology*) определ�
 
 ---
 
-[← 23. Нейрофизиология](23-neirofiziologiya-zdorovye-telesnye-effekty.md) · [Оглавление](README.md) · [25. Феноменологический атлас →](25-fenomenologicheskiy-atlas.md)
+[← 23. Нейрофизиология](23-neirofiziologiya-zdorovye-telesnye-effekty.md) · [Оглавление](README.md) · [25. Феноменологический атлас →](25-fenomenologicheskiy-atlas.md) · Написано Claude Opus 4.6

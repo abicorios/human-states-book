@@ -245,4 +245,4 @@ NSDR — светская версия йога-нидры, популяризи
 
 ---
 
-[← 12. Шаманские традиции](12-shamanskie-i-transovye-tradicii.md) · [Оглавление](README.md) · [14. Терапевтические подходы →](14-terapevticheskie-podkhody.md)
+[← 12. Шаманские традиции](12-shamanskie-i-transovye-tradicii.md) · [Оглавление](README.md) · [14. Терапевтические подходы →](14-terapevticheskie-podkhody.md) · Написано Claude Opus 4.6

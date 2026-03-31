@@ -403,4 +403,4 @@ L-теанин в сочетании с кофеином (зелёный чай 
 
 ---
 
-[← 28. Кросс-традиционная карта](28-kross-tradicionnaya-karta.md) · [Оглавление](README.md)
+[← 28. Кросс-традиционная карта](28-kross-tradicionnaya-karta.md) · [Оглавление](README.md) · Написано Claude Opus 4.6

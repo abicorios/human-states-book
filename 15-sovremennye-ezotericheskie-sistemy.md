@@ -609,4 +609,4 @@
 
 ---
 
-[← 14. Терапевтические подходы](14-terapevticheskie-podkhody.md) · [Оглавление](README.md) · [16. Психоделики и фармакология →](16-psikhedeliki-i-farmakologiya.md)
+[← 14. Терапевтические подходы](14-terapevticheskie-podkhody.md) · [Оглавление](README.md) · [16. Психоделики и фармакология →](16-psikhedeliki-i-farmakologiya.md) · Написано Claude Opus 4.6

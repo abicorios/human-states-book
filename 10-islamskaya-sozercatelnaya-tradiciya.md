@@ -297,4 +297,4 @@
 
 ---
 
-[← 09. Каббалистическая медитация](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · [Оглавление](README.md) · [11. Античность и гностицизм →](11-antichnost-i-gnosticizm.md)
+[← 09. Каббалистическая медитация](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · [Оглавление](README.md) · [11. Античность и гностицизм →](11-antichnost-i-gnosticizm.md) · Написано Claude Opus 4.6

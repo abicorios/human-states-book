@@ -314,4 +314,4 @@
 
 ---
 
-[← 04. Йога](04-yoga-sistemy-i-praktiki.md) · [Оглавление](README.md) · [06. Джайнизм и сикхизм →](06-dzhainizm-i-sikhizm.md)
+[← 04. Йога](04-yoga-sistemy-i-praktiki.md) · [Оглавление](README.md) · [06. Джайнизм и сикхизм →](06-dzhainizm-i-sikhizm.md) · Написано Claude Opus 4.6

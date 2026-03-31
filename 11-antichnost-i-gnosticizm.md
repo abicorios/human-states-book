@@ -224,4 +224,4 @@ Theoria не требует ни аскезы, ни ритуала — лишь 
 
 ---
 
-[← 10. Исламская традиция](10-islamskaya-sozercatelnaya-tradiciya.md) · [Оглавление](README.md) · [12. Шаманские традиции →](12-shamanskie-i-transovye-tradicii.md)
+[← 10. Исламская традиция](10-islamskaya-sozercatelnaya-tradiciya.md) · [Оглавление](README.md) · [12. Шаманские традиции →](12-shamanskie-i-transovye-tradicii.md) · Написано Claude Opus 4.6

@@ -315,4 +315,4 @@
 
 ---
 
-[← 18. Сон и сновидения](18-son-i-snovideniya.md) · [Оглавление](README.md) · [20. Спонтанные состояния →](20-spontannye-i-pogranichnye-sostoyaniya.md)
+[← 18. Сон и сновидения](18-son-i-snovideniya.md) · [Оглавление](README.md) · [20. Спонтанные состояния →](20-spontannye-i-pogranichnye-sostoyaniya.md) · Написано Claude Opus 4.6

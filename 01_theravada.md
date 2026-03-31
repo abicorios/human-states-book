@@ -284,4 +284,4 @@
 
 ---
 
-[Оглавление](README.md) · [02.01. Шаматха, випашьяна, базовые состояния →](02.01_shamatxa_vipashyana_bazovye_sostoyaniya.md)
+[Оглавление](README.md) · [02.01. Шаматха, випашьяна, базовые состояния →](02.01_shamatxa_vipashyana_bazovye_sostoyaniya.md) · Написано Claude Opus 4.6
