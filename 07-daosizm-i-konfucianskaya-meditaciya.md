@@ -1,3 +1,5 @@
+[← 06. Джайнизм и сикхизм](06-dzhainizm-i-sikhizm.md) · [Оглавление](README.md) · [08. Христианская мистика →](08-hristianskaya-mistika.md)
+
 # 7. Даосизм и конфуцианская медитация
 
 ## Введение
@@ -327,3 +329,7 @@
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 06. Джайнизм и сикхизм](06-dzhainizm-i-sikhizm.md) · [Оглавление](README.md) · [08. Христианская мистика →](08-hristianskaya-mistika.md)

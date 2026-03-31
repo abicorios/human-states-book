@@ -1,3 +1,5 @@
+[← 27. Трудные состояния и этика](27-trudnye-sostoyaniya-riski-etika.md) · [Оглавление](README.md) · [29. Контекст, метод и интеграция →](29-kontekst-metod-i-integraciya.md)
+
 # 28. Кросс-традиционная карта: универсалии и оси
 
 ## Введение
@@ -344,3 +346,7 @@ PCE — «переживание бодрствования при полном 
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 27. Трудные состояния и этика](27-trudnye-sostoyaniya-riski-etika.md) · [Оглавление](README.md) · [29. Контекст, метод и интеграция →](29-kontekst-metod-i-integraciya.md)

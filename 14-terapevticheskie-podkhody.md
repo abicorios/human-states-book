@@ -1,3 +1,5 @@
+[← 13. Светская медитация](13-svetskaya-meditaciya-i-mindfulness.md) · [Оглавление](README.md) · [15. Эзотерические системы →](15-sovremennye-ezotericheskie-sistemy.md)
+
 # 14. Терапевтические подходы на стыке с медитацией
 
 ## Введение
@@ -323,3 +325,7 @@ ACT называет его дефузией. DBT — Мудрым Умом. IFS
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 13. Светская медитация](13-svetskaya-meditaciya-i-mindfulness.md) · [Оглавление](README.md) · [15. Эзотерические системы →](15-sovremennye-ezotericheskie-sistemy.md)

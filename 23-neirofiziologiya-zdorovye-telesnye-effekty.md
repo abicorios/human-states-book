@@ -1,3 +1,5 @@
+[← 22. Мозг и медитация](22-mozg-i-meditaciya.md) · [Оглавление](README.md) · [24. Теории сознания →](24-teorii-soznaniya-i-meditaciya.md)
+
 # 23. Нейрофизиология, здоровье и телесные эффекты медитации
 
 ## Введение
@@ -231,3 +233,7 @@
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 22. Мозг и медитация](22-mozg-i-meditaciya.md) · [Оглавление](README.md) · [24. Теории сознания →](24-teorii-soznaniya-i-meditaciya.md)

@@ -1,3 +1,5 @@
+[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md)
+
 # 08. Христианская мистика
 
 ## Обзор
@@ -368,3 +370,7 @@
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md)

@@ -1,3 +1,5 @@
+[← 14. Терапевтические подходы](14-terapevticheskie-podkhody.md) · [Оглавление](README.md) · [16. Психоделики и фармакология →](16-psikhedeliki-i-farmakologiya.md)
+
 # 15. Современные эзотерические и синтетические системы
 
 ## Обзор
@@ -607,3 +609,7 @@
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 14. Терапевтические подходы](14-terapevticheskie-podkhody.md) · [Оглавление](README.md) · [16. Психоделики и фармакология →](16-psikhedeliki-i-farmakologiya.md)

@@ -1,3 +1,5 @@
+[← 03. Дзен/Чань](03-dzen-chan-vostochnoaziatskiy-buddizm.md) · [Оглавление](README.md) · [05. Индуистская философия →](05-induistskaya-filosofiya-i-devocionalnie-praktiki.md)
+
 # 4. Йога: системы и практики
 
 ## Обзор
@@ -675,3 +677,7 @@
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 03. Дзен/Чань](03-dzen-chan-vostochnoaziatskiy-buddizm.md) · [Оглавление](README.md) · [05. Индуистская философия →](05-induistskaya-filosofiya-i-devocionalnie-praktiki.md)

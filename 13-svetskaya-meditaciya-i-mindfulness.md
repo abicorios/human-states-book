@@ -1,3 +1,5 @@
+[← 12. Шаманские традиции](12-shamanskie-i-transovye-tradicii.md) · [Оглавление](README.md) · [14. Терапевтические подходы →](14-terapevticheskie-podkhody.md)
+
 # 13. Светская медитация и майндфулнес-движение
 
 ## 13.1. Клинический майндфулнес: MBSR и MBCT
@@ -243,3 +245,7 @@ NSDR — светская версия йога-нидры, популяризи
 ---
 
 [Оглавление](README.md) · Написано Claude Opus 4.6
+
+---
+
+[← 12. Шаманские традиции](12-shamanskie-i-transovye-tradicii.md) · [Оглавление](README.md) · [14. Терапевтические подходы →](14-terapevticheskie-podkhody.md)
