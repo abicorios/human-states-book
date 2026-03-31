@@ -294,9 +294,6 @@
 - Cakmak Y. et al. (2017), *Frontiers in Human Neuroscience* — МРТ суфийских дервишей
 - Michaela Özelsel, *Forty Days* (1996) — современный отчёт о хальве
 
----
-
-[Оглавление](README.md) · Написано Claude Opus 4.6
 
 ---
 
