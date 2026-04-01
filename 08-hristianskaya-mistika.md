@@ -1,3 +1,5 @@
+[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md)
+
 # 08. Христианская мистика
 
 ## Обзор
@@ -365,6 +367,7 @@
 - Григорианский хорал: ср. самá в суфизме (п. 10), киртан (п. 5)
 - Столпничество и аскетизм: ср. аскетические практики как кросс-традиционный метод (п. 29)
 
+
 ---
 
-[Оглавление](README.md) · Написано Claude Opus 4.6
+[← 07. Даосизм](07-daosizm-i-konfucianskaya-meditaciya.md) · [Оглавление](README.md) · [09. Каббалистическая медитация →](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · Написано Claude Opus 4.6

@@ -1,3 +1,5 @@
+[← 09. Каббалистическая медитация](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · [Оглавление](README.md) · [11. Античность и гностицизм →](11-antichnost-i-gnosticizm.md)
+
 # 10. Исламская созерцательная традиция
 
 ## Введение
@@ -292,6 +294,7 @@
 - Cakmak Y. et al. (2017), *Frontiers in Human Neuroscience* — МРТ суфийских дервишей
 - Michaela Özelsel, *Forty Days* (1996) — современный отчёт о хальве
 
+
 ---
 
-[Оглавление](README.md) · Написано Claude Opus 4.6
+[← 09. Каббалистическая медитация](09-iudeyskaya-kabbalisticheskaya-meditaciya.md) · [Оглавление](README.md) · [11. Античность и гностицизм →](11-antichnost-i-gnosticizm.md) · Написано Claude Opus 4.6
