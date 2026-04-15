@@ -14,3 +14,4 @@
 - [02.01. Шаматха, випашьяна, базовые состояния](chats/02.01_shamatxa_vipashyana_bazovye_sostoyaniya.md)
 - [02.02. Карта пути бодхисаттвы и школы](chats/02.02-karta-puti-bodhisattvy-i-shkoly.md)
 - [02.03. Дзогчен](chats/02.03_dzogchen.md)
+- [02.04. Махамудра](chats/02.04-mahamudra.md)
