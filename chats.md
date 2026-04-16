@@ -15,3 +15,4 @@
 - [02.02. Карта пути бодхисаттвы и школы](chats/02.02-karta-puti-bodhisattvy-i-shkoly.md)
 - [02.03. Дзогчен](chats/02.03_dzogchen.md)
 - [02.04. Махамудра](chats/02.04-mahamudra.md)
+- [02.05. Тантра: стадии и системы](chats/02.05-tantra-stadii-i-sistemy.md)
