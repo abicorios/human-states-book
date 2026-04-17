@@ -16,3 +16,4 @@
 - [02.03. Дзогчен](chats/02.03_dzogchen.md)
 - [02.04. Махамудра](chats/02.04-mahamudra.md)
 - [02.05. Тантра: стадии и системы](chats/02.05-tantra-stadii-i-sistemy.md)
+- [02.06. Шесть йог Наропы](chats/02.06-shest-yog-naropy.md)
